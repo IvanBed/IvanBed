@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ivan
 
 <!--
 **IvanBed/IvanBed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋, I'm Ivan
 
 I’m a passionate software engineer with a strong focus on systems programming, databases, and developer tooling.
 
@@ -28,7 +27,15 @@ I’m a passionate software engineer with a strong focus on systems programming,
 • Planning to build more tools around databases and infrastructure automation in the future. Feel free to follow my progress! 🚀
 
 **Languages and Tools:**
-`UNIX` `C` `C++` `Go` `Bash` `PostgreSQL` `Docker` `Git`
+
+<img src="https://img.shields.io/badge/UNIX-FCC624?style=flat&logo=linux&logoColor=black" alt="UNIX" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 
 **Connect with me:**
 - GitHub: [IvanBed](https://github.com/IvanBed)
