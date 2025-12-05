@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I’m a passionate software engineer with a strong focus on systems programming, databases, and developer tooling.
 
 **Currently working on:**
+
 • **[Linux Programming Workouts](https://github.com/IvanBed/linux-programing-workouts)** – A collection of low-level system programming exercises in UNIX/Linux environments.
 
 • **[LeetCode Workouts](https://github.com/IvanBed/leetcode-workouts)** – My journey through algorithmic challenges and interview preparation.
