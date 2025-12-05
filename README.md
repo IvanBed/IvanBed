@@ -44,5 +44,4 @@ I’m a passionate software engineer with a strong focus on systems programming,
 - GitHub: [IvanBed](https://github.com/IvanBed)
 
 ---
-*Always learning, always building.*
 
